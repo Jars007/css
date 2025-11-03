@@ -915,7 +915,7 @@ td {
 .tu .img {
     width: 205px;
     height: 126px;
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 15px
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 15px;
 }
 
 .tre {
@@ -1026,7 +1026,7 @@ td {
     color: #999;
     font-size: 14px;
     line-height: 22px;
-}1
+}
 
 .img-wrapper {
     position: relative;

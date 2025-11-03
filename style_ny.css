@@ -374,7 +374,7 @@ body {
 }
 
 .footer {
-    background: url(/static/index/images/bg_footer.png);
+    background: url(http://172.16.98.243:8083/static/index/images/bg_footer.png);
     height: 149px;
     display: flex;
     justify-content: center;
@@ -393,7 +393,7 @@ body {
 .footer_item {
     display: flex;
     align-items: center;
-    background: url(/static/index/images/footer_bg.png);
+    background: url(http://172.16.98.243:8083/static/index/images/footer_bg.png);
     height: 100px;
     width: 395px;
 }
@@ -410,7 +410,7 @@ body {
 }
 
 .footer_right_img {
-    background: url(/static/index/images/footer_right.png);
+    background: url(http://172.16.98.243:8083/static/index/images/footer_right.png);
     width: 147px;
     height: 345px;
     position: absolute;
@@ -425,7 +425,7 @@ body {
 }
 
 .footer_left_img {
-    background: url(/static/index/images/footer_left.png);
+    background: url(http://172.16.98.243:8083/static/index/images/footer_left.png);
     width: 126px;
     height: 345px;
     position: absolute;
@@ -442,7 +442,7 @@ body {
 .header_tools_bar {
     height: 36px;
     line-height: 36px;
-    background: url(/static/index/images/toolsBarBg.png);
+    background: url(http://172.16.98.243:8083/static/index/images/toolsBarBg.png);
     border-bottom: #e1e1e1 1px solid;
     display: flex;
     justify-content: center;
@@ -495,7 +495,7 @@ body {
     width: 550px;
     display: flex;
     justify-content: center;
-    background: url(/static/index/images/slogan.png) no-repeat;
+    background: url(http://172.16.98.243:8083/static/index/images/slogan.png) no-repeat;
     background-position: center;
     height: 100px;
 }
@@ -534,7 +534,7 @@ body {
 
 .header_nav_item_chk::after {
     content: '';
-    background: url(/static/index/images/navShaow.png) no-repeat;
+    background: url(http://172.16.98.243:8083/static/index/images/navShaow.png) no-repeat;
     position: absolute;
     width: 7px;
     height: 58px;
@@ -747,7 +747,7 @@ body {
 
 .page_content_menuBgCur, .page_content_menuBgCur:hover {
     color: #FFF;
-    background: url(/static/index/images/menu_bg.png) no-repeat;
+    background: url(http://172.16.98.243:8083/static/index/images/menu_bg.png) no-repeat;
 }
 
 .page_content-rightBox {
@@ -759,7 +759,7 @@ body {
 }
 
 .page_content_searchTop {
-    background: url(/static/index/images/article_bg.png);
+    background: url(http://172.16.98.243:8083/static/index/images/article_bg.png);
     width: 100%;
     height: 8px;
     position: relative;
@@ -1046,7 +1046,7 @@ td {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0,0,0,0.3) url('/static/index/images/play-icon.png') center center no-repeat;
+    background: rgba(0,0,0,0.3) url('http://172.16.98.243:8083/static/index/images/play-icon.png') center center no-repeat;
     background-size: 40px 40px;
     opacity: 0;
     transition: opacity 0.3s ease;
